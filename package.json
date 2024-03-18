@@ -15,11 +15,17 @@
     "sanity"
   ],
   "dependencies": {
+    "@sanity/icons": "^2.11.2",
+    "@sanity/locale-de-de": "^1.1.2",
+    "@sanity/locale-nl-nl": "^1.1.4",
+    "@sanity/ui": "^2.0.10",
     "@sanity/vision": "^3.33.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-is": "^18.2.0",
     "sanity": "^3.33.0",
+    "sanity-plugin-documents-pane": "^2.2.1",
+    "sanity-plugin-internationalized-array": "^1.10.9",
     "styled-components": "^6.0.7"
   },
   "devDependencies": {
